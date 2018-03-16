@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vadiasov\\ArtsAdmin\\ArtsServiceProvider"
+                "Vadiasov\\ArtsAdmin\\ArtsAdminServiceProvider"
             ]
         }
     }
